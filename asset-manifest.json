@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/travo/static/js/main.6c389acd.chunk.js",
+    "main.js.map": "/travo/static/js/main.6c389acd.chunk.js.map",
+    "runtime-main.js": "/travo/static/js/runtime-main.4f495c1e.js",
+    "runtime-main.js.map": "/travo/static/js/runtime-main.4f495c1e.js.map",
+    "static/js/2.718bfdc4.chunk.js": "/travo/static/js/2.718bfdc4.chunk.js",
+    "static/js/2.718bfdc4.chunk.js.map": "/travo/static/js/2.718bfdc4.chunk.js.map",
+    "index.html": "/travo/index.html",
+    "static/js/2.718bfdc4.chunk.js.LICENSE.txt": "/travo/static/js/2.718bfdc4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4f495c1e.js",
+    "static/js/2.718bfdc4.chunk.js",
+    "static/js/main.6c389acd.chunk.js"
+  ]
+}
